@@ -1,0 +1,20 @@
+﻿@model HomeViewModel
+
+@{
+    ViewBag.Title = "Home";
+    Layout = "_Layout";
+}
+
+@await Html.PartialAsync("Carousel")
+<br>
+<div style="text-align: center;">
+    <h2>Preferred foods of the week </h2>
+    <h4>Clients preferences - just for you!</h4>
+</div>
+<br>
+<div class="row">
+    @foreach (var food in Model.PreferredFoods)
+    {
+        @await Html.PartialAsync("FoodsSummary", food)
+    }
+</div>

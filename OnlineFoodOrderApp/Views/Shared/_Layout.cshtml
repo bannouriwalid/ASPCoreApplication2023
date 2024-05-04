@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="~/css/site.css"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js"></script>
+    <title>@ViewData["Title"] - FOOD'S</title>
+
+</head>
+<body style="background-color: #e0e0e0;">
+<header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" asp-controller="Home" asp-action="Index">
+            FOOD'S
+        </a>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-item nav-link" asp-controller="Home" asp-action="Home">
+                        <span class="glyphicon glyphicon-home"></span>
+                        Home
+                    </a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-item nav-link" asp-controller="About" asp-action="Index">
+                        <span class="glyphicon glyphicon-info-sign"></span>
+                        About
+                    </a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-item nav-link" asp-controller="Contact" asp-action="Create">
+                        <span class="glyphicon glyphicon-envelope"></span>
+                        Contact Us
+                    </a>
+                </li>
+                @await Component.InvokeAsync("CategoryMenu")
+            </ul>
+            <ul class="navbar-nav " style="margin-left: auto">
+                @await Component.InvokeAsync("ShoppingCartSummary") 
+                @await Html.PartialAsync("LoginPartial")
+            </ul>
+            <form class="form-inline my-2 my-lg-0" asp-controller="Food" asp-action="Search" method="get">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" name="searchString" value="@ViewData["searchString"]">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+            </form>
+        </div>
+    </nav>
+
+    @*     <nav class="navbar navbar-expand-lg navbar-dark bg-dark" role="navigation"> *@
+    @*         <div class="collapse navbar-collapse" id="navbarNavAltMarkup"> *@
+    @*             <div class="navbar-nav"> *@
+    @*                 <a class="nav-item nav-link active" asp-controller="Home" asp-action="Index"> *@
+    @*                     FOOD'S *@
+    @*                 </a> *@
+    @*                 <a class="nav-item nav-link" asp-controller="Home" asp-action="Home"> *@
+    @*                     <span class="glyphicon glyphicon-home"></span> *@
+    @*                     Home *@
+    @*                 </a> *@
+    @*                 @await Component.InvokeAsync("CategoryMenu") *@
+    @*                 <a class="nav-item nav-link" asp-controller="About" asp-action="Index"> *@
+    @*                     <span class="glyphicon glyphicon-info-sign"></span> *@
+    @*                     About *@
+    @*                 </a> *@
+    @*                 <a class="nav-item nav-link" asp-controller="Contact" asp-action="Create"> *@
+    @*                     <span class="glyphicon glyphicon-envelope"></span> *@
+    @*                     Contact Us *@
+    @*                 </a> *@
+    @*                 @await Component.InvokeAsync("ShoppingCartSummary") *@
+    @*             </div> *@
+    @*      *@
+    @*             <div> *@
+    @*                 <form class="navbar-form" asp-controller="Food" asp-action="Search" method="get"> *@
+    @*                     <div class="form-group d-flex flex-row"> *@
+    @*                         <input type="text" class="form-control" placeholder="Search for a food" name="searchString" value="@ViewData["searchString"]"> *@
+    @*                         <input class="btn btn-success ml-2" type="submit" value="Search"> *@
+    @*                     </div> *@
+    @*                 </form> *@
+    @*             </div> *@
+    @*             @await Html.PartialAsync("LoginPartial") *@
+    @*         </div> *@
+    @*     </nav> *@
+</header>
+<div>
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+</div>
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

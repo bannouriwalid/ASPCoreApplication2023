@@ -1,0 +1,497 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OnlineFoodOrderApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineFoodOrderApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\css\\aboutus.css",
+      "PackagePath": "staticwebassets\\css\\aboutus.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\css\\register.css",
+      "PackagePath": "staticwebassets\\css\\register.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\BBQRibs.jpg",
+      "PackagePath": "staticwebassets\\images\\BBQRibs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\CapreseSkewers.jpg",
+      "PackagePath": "staticwebassets\\images\\CapreseSkewers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\Chocolate_Hazelnut_Truffle.jpg",
+      "PackagePath": "staticwebassets\\images\\Chocolate_Hazelnut_Truffle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\MangoTangoSalad.jpg",
+      "PackagePath": "staticwebassets\\images\\MangoTangoSalad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\MargheritaPizza.jpg",
+      "PackagePath": "staticwebassets\\images\\MargheritaPizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\Patisserie.jpg",
+      "PackagePath": "staticwebassets\\images\\Patisserie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\Pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\Pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\RedVelvetCake.jpg",
+      "PackagePath": "staticwebassets\\images\\RedVelvetCake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\SeafoodPlatter.jpg",
+      "PackagePath": "staticwebassets\\images\\SeafoodPlatter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\ShrimpLinguine.jpg",
+      "PackagePath": "staticwebassets\\images\\ShrimpLinguine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\Tiramisu.jpg",
+      "PackagePath": "staticwebassets\\images\\Tiramisu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\TripleChocolateBrownie.jpg",
+      "PackagePath": "staticwebassets\\images\\TripleChocolateBrownie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\TrufflePasta.jpg",
+      "PackagePath": "staticwebassets\\images\\TrufflePasta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\aboutus.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\b.jpg",
+      "PackagePath": "staticwebassets\\images\\b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\bbq.jpg",
+      "PackagePath": "staticwebassets\\images\\bbq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\brik.jpg",
+      "PackagePath": "staticwebassets\\images\\brik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\burger.jpg",
+      "PackagePath": "staticwebassets\\images\\burger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\c.jpg",
+      "PackagePath": "staticwebassets\\images\\c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\cheesecake.jpg",
+      "PackagePath": "staticwebassets\\images\\cheesecake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\citruscuice.jpg",
+      "PackagePath": "staticwebassets\\images\\citruscuice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\cod.jpg",
+      "PackagePath": "staticwebassets\\images\\cod.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\cod2.jpg",
+      "PackagePath": "staticwebassets\\images\\cod2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\coffee.jpg",
+      "PackagePath": "staticwebassets\\images\\coffee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\contactus.jpg",
+      "PackagePath": "staticwebassets\\images\\contactus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\couscous.jpg",
+      "PackagePath": "staticwebassets\\images\\couscous.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\d.jpg",
+      "PackagePath": "staticwebassets\\images\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\eggsandwich.jpg",
+      "PackagePath": "staticwebassets\\images\\eggsandwich.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\espresso.jpg",
+      "PackagePath": "staticwebassets\\images\\espresso.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\frenchfries.jpg",
+      "PackagePath": "staticwebassets\\images\\frenchfries.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\freshsalad.jpg",
+      "PackagePath": "staticwebassets\\images\\freshsalad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\fruitjuice.jpg",
+      "PackagePath": "staticwebassets\\images\\fruitjuice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\grilledchicken.jpg",
+      "PackagePath": "staticwebassets\\images\\grilledchicken.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\headerimg1.jpg",
+      "PackagePath": "staticwebassets\\images\\headerimg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\index.jpg",
+      "PackagePath": "staticwebassets\\images\\index.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\login.jpg",
+      "PackagePath": "staticwebassets\\images\\login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\milkshake.jpg",
+      "PackagePath": "staticwebassets\\images\\milkshake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\new.jpg",
+      "PackagePath": "staticwebassets\\images\\new.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\noodles.jpg",
+      "PackagePath": "staticwebassets\\images\\noodles.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\ojja.jpg",
+      "PackagePath": "staticwebassets\\images\\ojja.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\pancake.jpg",
+      "PackagePath": "staticwebassets\\images\\pancake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\pasta.jpg",
+      "PackagePath": "staticwebassets\\images\\pasta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\roll.jpg",
+      "PackagePath": "staticwebassets\\images\\roll.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\salmon.jpg",
+      "PackagePath": "staticwebassets\\images\\salmon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\seafood.jpg",
+      "PackagePath": "staticwebassets\\images\\seafood.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\shrimpsalad.jpg",
+      "PackagePath": "staticwebassets\\images\\shrimpsalad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\signupuser.jpg",
+      "PackagePath": "staticwebassets\\images\\signupuser.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\slide001.jpg",
+      "PackagePath": "staticwebassets\\images\\slide001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\slide002.jpg",
+      "PackagePath": "staticwebassets\\images\\slide002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\slide003.jpg",
+      "PackagePath": "staticwebassets\\images\\slide003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\soda.jpg",
+      "PackagePath": "staticwebassets\\images\\soda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\specialsalad.jpg",
+      "PackagePath": "staticwebassets\\images\\specialsalad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\tasty.jpg",
+      "PackagePath": "staticwebassets\\images\\tasty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\images\\water.jpg",
+      "PackagePath": "staticwebassets\\images\\water.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MSI\\RiderProjects\\OnlineFoodOrderApp\\OnlineFoodOrderApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineFoodOrderApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineFoodOrderApp.props",
+      "PackagePath": "build\\OnlineFoodOrderApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineFoodOrderApp.props",
+      "PackagePath": "buildMultiTargeting\\OnlineFoodOrderApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineFoodOrderApp.props",
+      "PackagePath": "buildTransitive\\OnlineFoodOrderApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

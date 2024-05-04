@@ -1,0 +1,55 @@
+﻿@model Contact
+
+<link rel="stylesheet" type="text/css" href="~/css/contact.css"/>
+<style>
+    body {
+           background-image: url('@Url.Content("~/images/cod.jpg")');
+           background-repeat: no-repeat;
+           background-size: cover;
+    }
+            
+</style>
+
+<h1 style="font-size: 40px;text-align: center"> Want to contact <span style="color:green"> TastyOrder </span>?</h1>
+<br>
+<p style="font-size: 40px;text-align: center"> Here are a few ways to get in touch with us.</p>
+
+
+<div class="container">
+    <div class="col-md-5" style="float: none; margin: 0 auto;">
+        <div class="form-area">
+            <form asp-controller="Contact" asp-action="Create" method="post" class="form-horizontal" role="form" required>
+                <br style="clear: both">
+                <h3 style="margin-bottom: 25px; text-align: center; font-size: 30px;"> Contact Form</h3>
+                <div class="form-group">
+                    <input asp-for="Name" type="text" class="form-control" id="name" placeholder="Name" required>
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <br>
+                <div class="form-group">
+                    <input input asp-for="Email" type="email" class="form-control" id="email" placeholder="Email" required>
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                    <br>
+                    <div class="form-group" style="padding: 15px">
+                        <input asp-for="Mobile" type="Number" class="form-control" id="mobile" placeholder="Mobile Number" required>
+                        <span asp-validation-for="Mobile" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <input asp-for="Subject" type="text" class="form-control" id="subject" placeholder="Subject" required>
+                    <span asp-validation-for="Subject" class="text-danger"></span>
+                </div>
+                <br>
+                <div class="form-group">
+                    <textarea asp-for="Message" class="form-control" type="textarea" id="message" placeholder="Message" maxlength="140" rows="7"></textarea>
+                    <span class="help-block">
+                        <p id="characterLeft" class="help-block">Max Character length : 140 </p>
+                    </span>
+                    <span asp-validation-for="Message" class="text-danger"></span>
+                </div>
+                <input type="submit" value="Submit" class="btn btn-primary pull-right"/>
+            </form>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,8 @@
+﻿@model FoodsListViewModel
+
+<div class="row marginTop">
+    @foreach (var food in Model.Foods)
+    {
+        @await Html.PartialAsync("FoodsSummary", food)
+    }
+</div>

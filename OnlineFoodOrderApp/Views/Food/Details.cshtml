@@ -1,0 +1,32 @@
+﻿@model Food
+
+
+<style>
+    body {
+               background-image: url('@Url.Content("~/images/d.jpg")');
+               background-repeat: no-repeat;
+              background-size: cover;
+            }
+</style>
+
+<div class="container">
+    <div class="card" style="width: 700px;margin-left: 220px;padding: 50px;" >
+        <img src="~/@Model.ImageUrl" class="card-img-top" alt="@Model.Name" style="width: 600px; height: 600px;border-radius: 50px;">
+        <div class="card-body">
+            <h5 class="card-title">@Model.Name</h5>
+            <p class="card-text">@Model.LongDescription</p>
+        </div>
+        <div class="card-footer">
+            <div class="btn-group">
+                <a asp-controller="Food" asp-action="List" class="btn btn-primary">
+                    <span class="glyphicon glyphicon-arrow-left"></span>
+                    Show all foods
+                </a>
+                <a class="btn btn-success" id="cartButton" asp-controller="ShoppingCart" asp-action="AddToShoppingCart" asp-route-foodId="@Model.FoodId">
+                    <span class="glyphicon glyphicon-shopping-cart"></span>
+                    Add to cart
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

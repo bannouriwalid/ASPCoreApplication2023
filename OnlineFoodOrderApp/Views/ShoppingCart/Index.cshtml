@@ -1,0 +1,66 @@
+﻿@using System.Globalization
+@model ShoppingCartViewModel
+@{
+    ViewBag.Title = "ShoppingCart";
+}
+
+<div class="container">
+    <div class="jumbotron">
+        <h1>Your Shopping Cart</h1>
+        @if (@Model.ShoppingCartTotal == 0)
+        {
+            <p>Oops! We can't smell any food here. Go back and <a asp-controller="Food" asp-action="List">order now.</a></p>
+        }
+        else
+        {
+            <p>Looks tasty...!!!</p>
+        }
+    </div>
+</div>
+
+
+<div class="table-responsive" style="padding-left: 100px; padding-right: 100px;">
+    <table class="table table-striped">
+        <thead class="thead-light">
+        <tr>
+            <th >Food Name</th>
+            <th >Quantity</th>
+            <th >Price</th>
+            <th >Subtotal</th>
+            <th >Action</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var line in Model.ShoppingCart.ShoppingCartItems)
+        {
+            <tr>
+                <td class="text-left">@line.food.Name</td>
+                <td class="text-left">@line.Amount</td>
+                <td class="text-left">@line.food.Price.ToString(CultureInfo.InvariantCulture) TND</td>
+                <td class="text-left">
+                    @((line.Amount * line.food.Price).ToString(CultureInfo.InvariantCulture)) TND
+                </td>
+                <td class="text-center">
+                    <a class="glyphicon glyphicon-trash text-danger " asp-controller="ShoppingCart" asp-action="RemoveFromShoppingCart" asp-route-foodId="@line.food.FoodId"></a>
+                </td>
+            </tr>
+        }
+        <tr>
+            <td colspan="3" class="text-right">TOTAL</td>
+            <td class="text-left">
+                @Model.ShoppingCartTotal.ToString(CultureInfo.InvariantCulture) TND
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    <a asp-controller="Food" asp-action="List" class="btn btn-warning">
+        <span class="glyphicon glyphicon-circle-arrow-left"></span> Continue Shopping
+    </a>&nbsp;
+    @if (@Model.ShoppingCartTotal != 0)
+    {
+        <a asp-controller="Order" asp-action="Checkout" class="btn btn-success pull-right">
+            <span class="glyphicon glyphicon-usd"></span> Check Out
+        </a>
+    }
+
+</div>

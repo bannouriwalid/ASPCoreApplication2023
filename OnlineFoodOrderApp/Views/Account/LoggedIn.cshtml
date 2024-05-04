@@ -1,0 +1,36 @@
+﻿<style>
+        body {
+            background-image: url('@Url.Content("~/images/b.jpg")'); /* Replace with your actual background image URL */
+            background-size: cover;
+            background-repeat: no-repeat;
+            color: white; /* Text color */
+        }
+
+        .container {
+            margin-top: 50px;
+        }
+
+        .jumbotron {
+            background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent black background */
+            padding: 20px;
+            border-radius: 15px;
+        }
+
+        h2, p {
+            text-align: center;
+        }
+
+        a {
+            color: #fff; /* Link color */
+        }
+    </style>
+
+    <div class="container jumbotron">
+        <div class="col-md-12">
+            <h2>You were successfully registered. :)</h2>
+            <p><b>You are ready to log in.</b></p>
+            <p><a href="@Url.Action("Login", "Account")">Click here to log in</a></p>
+        </div>
+    </div>
+
+

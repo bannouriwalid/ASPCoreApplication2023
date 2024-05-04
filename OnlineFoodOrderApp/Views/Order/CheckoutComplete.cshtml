@@ -1,0 +1,26 @@
+﻿<style>
+    body {
+               background-image: url('@Url.Content("~/images/cod2.jpg")');
+               background-repeat: no-repeat;
+              background-size: cover;
+            }
+</style>
+<br><br><br><br><br><br><br><br><br>
+<h1 class="text-center" style="color: green;"> Order Placed Successfully.</h1>
+<br>
+<h2 class="text-center"> Thank you for Ordering at FOOD'S! The ordering process is now complete.</h2>
+
+@{
+    Random random = new Random();
+    int num1 = random.Next(100000, 999999);
+    int num2 = random.Next(100000, 999999);
+    int num3 = random.Next(100000, 999999);
+    string number = $"{num1}{num2}{num3}";
+}
+
+<h3 class="text-center">
+    <strong>Your Order Number:</strong> <span style="color: blue;"> @number</span>
+</h3>
+<h4 class="text-center">
+    <a asp-controller="Home" asp-action="Home">Go back to Home page</a>
+</h4>
